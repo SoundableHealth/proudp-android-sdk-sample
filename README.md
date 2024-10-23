@@ -11,6 +11,7 @@ dependencies {
 ### 2. Initialize SDK
 
 - Set 3 server keys to connect to the Soundable Health server.
+- Please contact dev@soundable.health to get these keys.
 
 ```kotlin
 SoundableHealth.init(
